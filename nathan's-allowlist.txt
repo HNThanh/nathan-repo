@@ -1,2 +1,4 @@
 # Custom
 ads.fptplay.vn
+web.facebook.com
+graph.facebook.com
